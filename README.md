@@ -15,9 +15,9 @@ Você pode simplesmente baixar o run.sh para sua máquina (não há necessidade 
 1. Atualize o caminho do volume (-v) para apontar para o diretorio onde seu blog jekyll está;
 2. Execute o run.sh:
 
-
+```
     ./run.sh
-
+```
 
 > Na primeira execução do run, talvez seja provavel que você precise indicar que ele é um executável, para isso, execute: `chmod +x run.sh`.
 
